@@ -1,6 +1,6 @@
 # 🏠 Analysis of Rental Houses in Pune (EDA Project)
 
- 📌 Project Overview
+ ##📌 Project Overview
 
 This project focuses on Exploratory Data Analysis (EDA) of rental house listings in Pune city.
 The aim is to understand how rent prices vary across locations and what factors influence rental rates, such as property size, number of rooms, and amenities.
