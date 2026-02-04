@@ -1,106 +1,114 @@
 # 🏠 Analysis of Rental Houses in Pune (EDA Project)
 
- ## 📌 Project Overview
+## 📌 Project Overview
 
-This project focuses on Exploratory Data Analysis (EDA) of rental house listings in Pune city.
-The aim is to understand how rent prices vary across locations and what factors influence rental rates, such as property size, number of rooms, and amenities.
+This project focuses on Exploratory Data Analysis (EDA) of rental houses in Pune city.
+The main aim is to understand how rent prices vary across different locations and identify the key factors that affect rental prices, such as area, number of rooms, and amenities.
 
-This project helped me apply data analysis concepts on real-world housing data and extract meaningful insights.
+This project is part of my learning journey in Data Analytics, where I applied theoretical knowledge to real-world data.
 
+---
 
 ## 🎯 Project Objectives
 
-Understand rental price patterns across different areas of Pune
+* To analyze rental price trends across different areas of Pune
 
-Identify factors affecting rent (location, area, BHK, amenities)
+* To identify factors influencing rent (location, area, BHK, amenities)
 
-Compare rental prices for different property types
+* To compare rental prices for different property types
 
-Identify premium and high-demand rental locations
+* To identify high-demand and premium rental locations
 
-Practice end-to-end EDA on real data
+* To gain hands-on experience with real-world data analysis
 
+---
 
-## 📊 Dataset & Data Collection
+## 🌐 Data Collection (Web Scraping)
 
-Data was collected using web scraping from real estate listings
+* Data was collected from Nestoria.in using web scraping
 
-Tools used for scraping: Requests, BeautifulSoup, and Pandas
+* Tools used: Requests, BeautifulSoup, and Pandas
 
-The raw data was messy and unstructured, similar to real industry data
+* The scraped data was raw and unstructured, similar to real industry data.
 
+---
 
 ## 🧹 Data Cleaning & Preparation
 
-Handled missing and inconsistent values
+* Handled missing and inconsistent values
 
-Cleaned rent, area, BHK, bathrooms, and location columns
+* Cleaned rent, area, BHK, bathroom, and location columns
 
-Converted columns into correct data types
+* Converted columns into correct data types
 
-Created new columns to support analysis
+* Created new columns to support better analysis.
 
+---
 
-## 🔍 Key Analysis Performed
+## 🔍 Exploratory Data Analysis Performed
 
-Rent distribution and area distribution
+* Rent distribution and area distribution analysis
 
-Rent comparison across top locations
+* Rent comparison across top locations
 
-Relationship between rent and area
+* Relationship between rent and area
 
-Impact of BHK, bathrooms, and amenities on rent
+* Impact of property features like BHK, bathrooms, and amenities
 
-Identification of premium rental areas
+* Identification of premium rental areas.
 
+---
 
 ## 💡 Key Insights
 
-Most rental houses fall in the ₹50k–₹80k range
+* Most rental properties fall in the ₹50k–₹80k range
 
-Majority of properties are between 1000–2000 sq ft
+* Majority of houses are 1000–2000 sq ft in size
 
-Rent increases as area increases
+* Rent increases as property area increases
 
-Location has a strong impact on rent
+* Location has a strong impact on rent prices
 
-Verde Kalyani Nagar has the highest average rent
+* Verde Kalyani Nagar has the highest average rent
 
-Amenities like garden and gym are common in most properties
+* Amenities like garden and gym are common and add value
 
-⚠️ Note:
-All insights are based on my observations from the available data.
-Additional insights may also be derived with deeper or different analysis.
+---
 
+## 📌 **Note**:
+These insights are derived from my observations of the available data.
+Additional insights may also be drawn with further analysis.
+
+---
 
 ## 🛠️ Tools & Technologies Used
 
-Python
+* Python 
 
-Pandas, NumPy
+* Pandas, NumPy, Matplotlib, Seaborn
 
-Matplotlib, Seaborn
+* Web Scraping (Requests, BeautifulSoup)
 
-Web Scraping (Requests, BeautifulSoup)
+* Jupyter Notebook
 
-Jupyter Notebook
-
+--- 
 
 ## 📈 Learnings from This Project
 
-Hands-on experience with real-world data
+* Hands-on experience with real-world web scraped data
 
-Improved skills in data cleaning and EDA
+* Improved skills in data cleaning and EDA
 
-Better understanding of housing market trends
+* Better understanding of housing rental trends
 
-Learned how data can support decision-making
+* Learned how data analysis supports decision-making
 
+---
 
 ## ⚠️ Challenges Faced
 
 Handling missing and inconsistent scraped data
 
-Cleaning location names
+Cleaning and standardizing location names
 
-Choosing the right visualizations for insights
+Choosing the right visualizations for insights.
