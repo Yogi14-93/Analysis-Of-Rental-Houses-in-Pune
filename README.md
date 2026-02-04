@@ -107,8 +107,8 @@ Additional insights may also be drawn with further analysis.
 
 ## ⚠️ Challenges Faced
 
-Handling missing and inconsistent scraped data
+* Handling missing and inconsistent scraped data
 
-Cleaning and standardizing location names
+* Cleaning and standardizing location names
 
-Choosing the right visualizations for insights.
+* Choosing the right visualizations for insights.
