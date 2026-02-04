@@ -104,11 +104,3 @@ Additional insights may also be drawn with further analysis.
 * Learned how data analysis supports decision-making
 
 ---
-
-## ⚠️ Challenges Faced
-
-* Handling missing and inconsistent scraped data
-
-* Cleaning and standardizing location names
-
-* Choosing the right visualizations for insights.
